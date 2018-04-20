@@ -22,7 +22,7 @@ Switching to guns.
     --PAIRS.properties--
     market = BTC
     max_trading_pairs = [your value here, see next question]
-    DEFAULT_min_buy_volume = [your value here, recommend 400-700]
+    DEFAULT_min_buy_volume = [your value here, recommend 780]
     
     --settings.analyzer.json--
     Change the ignored markets for market trends
