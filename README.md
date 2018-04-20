@@ -1,5 +1,5 @@
 # 3rd Generation Profit Trailer Settings for ProfitTrailer 2+
-[Download the settings here.](https://github.com/stevenshizzleh/gen3-pt-settings/releases)
+[SETTINGS ARE NOT AVAILABLE YET...THIS IS A PLACEHOLDER :)](https://github.com/stevenshizzleh/gen3-pt-settings/releases)
 ## Thought Process Behind Settings
 1. **Optimal Entry.** The settings employ a combination of technical inicators to both purchase pairs and dollar cost average (DCA) at the optimal entry point. No more buying at a peak, and no more buying in the midst of a downtrend.
 
