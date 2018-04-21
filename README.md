@@ -29,7 +29,7 @@ Switching to guns.
 
 **Q:** What should I set ALL_max_trading_pairs to?
 
-**A:** You'll need to determine what your max trading pairs is based on your comfort levels, balance, DCA levels, and risk acceptance. As of this FAQ, I have 0.90 ETH. I can comfortably trade up to 14 pairs at a time. Your max trading pairs will be based on (1) your assumption of how many pairs will enter the various DCA levels (2) the **depth** of the DCA levels (3) ALL_max_cost_percentage. The true limiting factor on the number of pairs you run is your DCA setup. The current DCA setup is deep and  allows for a large number of pairs to be traded as the likelihood of DCA3 and DCA4 is less likely. Please take a look at my a helper spreadhseet I made availabe on [GoogleDocs](https://docs.google.com/spreadsheets/d/1pjx3M85yikbTD2DcVoZ22OkHuMWRHobwDwxa3R-SWuk/edit?usp=sharing).
+**A:** You'll need to determine what your max trading pairs is based on your comfort levels, balance, DCA levels, and risk acceptance. As of this FAQ, I have 0.90 ETH. I can comfortably trade up to 14 pairs at a time. Your max trading pairs will be based on (1) your assumption of how many pairs will enter the various DCA levels (2) the **depth** of the DCA levels (3) ALL_max_cost_percentage. The true limiting factor on the number of pairs you run is your DCA setup. The current DCA setup is deep and  allows for a large number of pairs to be traded as the likelihood of DCA3 and DCA4 is less likely. Please take a look at my a helper spreadhseet I made availabe on [GoogleDocs](https://docs.google.com/spreadsheets/d/17quWIFAAK0xfsUXyBz1mU9wjAGUrUHBFm3_MhSaOnTg/edit?usp=sharing).
 
 **Q:** Why do you use DEFAULT_initial_cost_percentage instead of DEFAULT_initial_cost?
 
