@@ -1,4 +1,5 @@
-# Disciplined Trading - Settings for ProfitTrailer 2 and PTMagic
+# Disciplined Trading 
+### Settings for ProfitTrailer 2 and PTMagic
 [NOT RELEASED YET -- HOLD YOUR HORSES WE'RE ALMOST READY!](https://github.com/stevenshizzleh/gen3-pt-settings/releases)
 
 This is a pre-release group of settings for ProfitTrailer (PT) 2 and PTMagic (PTM) 1.6. These settings are pre-release for a few reasons:
