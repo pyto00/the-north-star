@@ -3,7 +3,7 @@
 
 This is a pre-release group of settings for ProfitTrailer (PT) 2 and PTMagic (PTM) 1.6. These settings are pre-release for a few reasons:
 
-1. A number of indicators that this team wanted to use are not working correctly in PT or they are not properly documented. Because of this, the indicators that would yield best results cannot be used.
+1. One of the indicators that this team wanted to use is not working correctly in PT or or not properly documented. Because of this, the indicator that could come in use for buy/sell confirmations cannot be used.
 
 2. This is a learning process. We'll see pair characteristics that demand we change the way we trade them (e.g., downtrends, uptrends, volatility, volume, pump & dumps, etc.). As we become more familiar with the new indicators and some of the great charting tools out there, we'll continue to improve the settings.
 
@@ -97,4 +97,4 @@ The pre-release settings will not use global market settings. Dispite what the m
 
 **A:** Like this:
 
-I don't know yet but we'll find out and then I'll put a cool picture here.
+We'll know soon enough!
