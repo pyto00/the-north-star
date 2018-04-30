@@ -29,7 +29,7 @@ We went back to the basics. We asked ourselves the fundamental questions until w
 
 **A:** You'll need to determine what your max trading pairs is based on your comfort levels, balance, DCA levels, and risk acceptance. As we see more buys, sells, and inevitable bags, we'll be doing Post-Purchase Reviews to look for patterns and leading indicators that can help make these settings even safer. 
 
-For the time being, I feel very comfortable in saying that it is more unlikely than ever that you will enter a level 4 DCA. Feel free to take a look at our planning spreadsheet available on [GoogleDocs](https://docs.google.com/spreadsheets/d/17quWIFAAK0xfsUXyBz1mU9wjAGUrUHBFm3_MhSaOnTg/edit?usp=sharing) to help you get started. Please proceed with caution and at your own risk.
+For the time being, I feel very comfortable in saying that it is more unlikely than ever that you will enter a level 4 DCA. Feel free to take a look at our planning spreadsheet available on [GoogleDocs](https://docs.google.com/spreadsheets/d/17quWIFAAK0xfsUXyBz1mU9wjAGUrUHBFm3_MhSaOnTg/edit?usp=sharing) or the settings [landing page](https://github.com/stevenshizzleh/the-north-star) to help you get started. Please proceed with caution and at your own risk.
 
 **Q:** Why do you use DEFAULT_initial_cost_percentage instead of DEFAULT_initial_cost?
 
