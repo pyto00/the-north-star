@@ -17,6 +17,10 @@ We went back to the basics. We asked ourselves the fundamental questions until w
 **We can't predict when a pair is going to pump. How can we get in on the action?** We need to characterize a pump. The more we looked at high-performance pairs, the more we saw repeating patterns. We captured the hallmark characteristics of an up-trending pair and came up with a buy strategy that we really think you're gonna like.
 
 # FAQ
+**Q:** I need help!
+
+**A:** Visit our [Discord](https://discord.gg/34bxedy) channel.
+
 **Q:** Will you be releasing PTMagic settings?
 
 **A:** At the moment our intent is to continue to improve this specific setting. We feel if we can do this one thing extremely well, then it's going to represent a large majority of the overall solution. Eventually, we would like to get extremely good at trading other trends. So the vision is that one day we'll have The North Star as a Single Market Setting in PTMagic, alongside other refined settings.
@@ -41,7 +45,7 @@ For the time being, I feel very comfortable in saying that it is more unlikely t
 
 **Q:** Can I make a donation?
 
-**A:** This is a toughie for me. Mostly because I don't usually accept praise well ;) The best way you can donate is to share your feedback, ask questions, and share these settings. I do not feel comfortable advertising a Bitcoin or Ethereum address for donation. If you're committed to donating, feel free to contact me directly but please know we do this and expect nothing in return. At the same time, I do acknowledge that I have dedicated a lot of time to this project and at personal sacrifice. Others have put forth time and effort as well and I would be remiss if I didn't acknowledge their hard work. I could not have done this without them.
+**A:** This is a toughie for me. Mostly because I don't usually accept praise well ;) The best way you can donate is to share your feedback, ask questions, and share these settings. I do not feel comfortable advertising a Bitcoin or Ethereum address for donation. If you're definitely compelled to donate, feel free to contact me directly as I want to have the opportunity to thank you directly. At the same time, I do acknowledge that I have dedicated a lot of time to this project and at personal sacrifice. Others have put forth time and effort as well and I would be remiss if I didn't acknowledge their hard work. I could not have done this without them.
 
 I want you to know that this work is profoundly important to me. I have ambition, I have dreams, and like most people I have debt. My "North Star" is telling me that if I can make this work, this may be able to change my life. If I can help just a few people out there get out of a tight spot in life or help a parent get a bicycle for their 6 year-old, then that's something that'll put a smile on my face.
 
