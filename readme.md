@@ -28,6 +28,7 @@ We went back to the basics. We asked ourselves the fundamental questions until w
 Our intent is to continue to improve this specific setting to increase profit and curtail risk. We feel if we can do this one thing extremely well, then it's going to represent a large majority of the overall solution. Saying the PT settings aren't good because there aren't any PTM settings is like saying a dining room table is crap because there isn't a napkin holder on it. This is not to say that PTM isn't a great tool, but it's not a necessity and we're trying to keep things managable and profitable. Eventually, we would like to get extremely good at trading other trends. So the vision is that one day we'll have The North Star as a Single Market Setting in PTMagic, alongside other refined settings.
 
 **Q:** Wthout PTMagic, how can you protect against pumps?
+
 **A:** When a pump occurs, the width of the Bollinger Bands will increase. If the pump is too great, the width of the bands will exceed that allowed by the BBWIDTH setting in the PAIRS.properties file. Bottom line here is that pump protection is built in. Now you might ask, "well what if it buys at the top of the pump?" It won't because (1) the buy value cannot be much higher than the top Bollinger Band, and (2) the STOCH must be low, representing a fall in value compared to previous price action.
 
 **Q:** What should I set max_trading_pairs and DEFAULT_initial_cost_percentage to?
